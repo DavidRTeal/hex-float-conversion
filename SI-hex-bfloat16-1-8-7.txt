@@ -1,0 +1,98 @@
+0x7f7f = 338953138925153547590470800371487866880.0
+ 	55f66891f084
+	0 00000000 00000000111111101111111
+	s eeeeeeee fffffffffffffffffffffff
+	denormalized value
+	sign:		positive
+	bias:		127       
+	unbiased exp:	0         
+	E:		-126      
+	frac:		0.00389087200164794922
+	M:		0.00389087200164794922
+	value:		0.00000000000000000000
+	value:		4.57369805770977043779e-41
+
+0x4049 = 3.1406250
+ 	55f66891f084
+	0 00000000 00000000100000001001001
+	s eeeeeeee fffffffffffffffffffffff
+	denormalized value
+	sign:		positive
+	bias:		127       
+	unbiased exp:	0         
+	E:		-126      
+	frac:		0.00196182727813720703
+	M:		0.00196182727813720703
+	value:		0.00000000000000000000
+	value:		2.30611688273935145362e-41
+
+0x3eab = 0.3339843750
+ 	55f66891f084
+	0 00000000 00000000011111010101011
+	s eeeeeeee fffffffffffffffffffffff
+	denormalized value
+	sign:		positive
+	bias:		127       
+	unbiased exp:	0         
+	E:		-126      
+	frac:		0.00191247463226318359
+	M:		0.00191247463226318359
+	value:		0.00000000000000000000
+	value:		2.24810312631630402688e-41
+
+0x0080 = 0.0
+ 	55f66891f084
+	0 00000000 00000000000000010000000
+	s eeeeeeee fffffffffffffffffffffff
+	denormalized value
+	sign:		positive
+	bias:		127       
+	unbiased exp:	0         
+	E:		-126      
+	frac:		0.00001525878906250000
+	M:		0.00001525878906250000
+	value:		0.00000000000000000000
+	value:		1.79366203433576585078e-43
+
+0x3f80 = 1.0
+ 	55f66891f084
+	0 00000000 00000000011111110000000
+	s eeeeeeee fffffffffffffffffffffff
+	denormalized value
+	sign:		positive
+	bias:		127       
+	unbiased exp:	0         
+	E:		-126      
+	frac:		0.00193786621093750000
+	M:		0.00193786621093750000
+	value:		0.00000000000000000000
+	value:		2.27795078360642263049e-41
+
+0xc000 = -2.0
+ 	55f66891f084
+	0 00000000 00000001100000000000000
+	s eeeeeeee fffffffffffffffffffffff
+	denormalized value
+	sign:		positive
+	bias:		127       
+	unbiased exp:	0         
+	E:		-126      
+	frac:		0.00585937500000000000
+	M:		0.00585937500000000000
+	value:		0.00000000000000000000
+	value:		6.88766221184934086700e-41
+
+0x0080 = 0.0000000000000000000000000000000000000118
+ 	55f66891f084
+	0 00000000 00000000000000010000000
+	s eeeeeeee fffffffffffffffffffffff
+	denormalized value
+	sign:		positive
+	bias:		127       
+	unbiased exp:	0         
+	E:		-126      
+	frac:		0.00001525878906250000
+	M:		0.00001525878906250000
+	value:		0.00000000000000000000
+	value:		1.79366203433576585078e-43
+

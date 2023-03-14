@@ -1,0 +1,168 @@
+0x3555
+	0 01101 0101010101
+	s eeeee ffffffffff
+	normalized value
+	sign:		positive
+	bias:		15        
+	unbiased exp:	13        
+	E:		-2        
+	frac:		0.33300781250000000000
+	M:		1.33300781250000000000
+	value:		0.33325195312500000000
+	value:		3.33251953125000000000e-01
+
+0x0400
+	0 00001 0000000000
+	s eeeee ffffffffff
+	normalized value
+	sign:		positive
+	bias:		15        
+	unbiased exp:	1         
+	E:		-14       
+	frac:		0.00000000000000000000
+	M:		1.00000000000000000000
+	value:		0.00006103515625000000
+	value:		6.10351562500000000000e-05
+
+0x3C00
+	0 01111 0000000000
+	s eeeee ffffffffff
+	normalized value
+	sign:		positive
+	bias:		15        
+	unbiased exp:	15        
+	E:		0         
+	frac:		0.00000000000000000000
+	M:		1.00000000000000000000
+	value:		1.00000000000000000000
+	value:		1.00000000000000000000e+00
+
+0x3C01
+	0 01111 0000000001
+	s eeeee ffffffffff
+	normalized value
+	sign:		positive
+	bias:		15        
+	unbiased exp:	15        
+	E:		0         
+	frac:		0.00097656250000000000
+	M:		1.00097656250000000000
+	value:		1.00097656250000000000
+	value:		1.00097656250000000000e+00
+
+0x7BFF
+	0 11110 1111111111
+	s eeeee ffffffffff
+	normalized value
+	sign:		positive
+	bias:		15        
+	unbiased exp:	30        
+	E:		15        
+	frac:		0.99902343750000000000
+	M:		1.99902343750000000000
+	value:		65504.00000000000000000000
+	value:		6.55040000000000000000e+04
+
+0x3BFF
+	0 01110 1111111111
+	s eeeee ffffffffff
+	normalized value
+	sign:		positive
+	bias:		15        
+	unbiased exp:	14        
+	E:		-1        
+	frac:		0.99902343750000000000
+	M:		1.99902343750000000000
+	value:		0.99951171875000000000
+	value:		9.99511718750000000000e-01
+
+0xFBFF
+	1 11110 1111111111
+	s eeeee ffffffffff
+	normalized value
+	sign:		negative
+	bias:		15        
+	unbiased exp:	30        
+	E:		15        
+	frac:		0.99902343750000000000
+	M:		1.99902343750000000000
+	value:		-65504.00000000000000000000
+	value:		-6.55040000000000000000e+04
+
+0xc000
+	1 10000 0000000000
+	s eeeee ffffffffff
+	normalized value
+	sign:		negative
+	bias:		15        
+	unbiased exp:	16        
+	E:		1         
+	frac:		0.00000000000000000000
+	M:		1.00000000000000000000
+	value:		-2.00000000000000000000
+	value:		-2.00000000000000000000e+00
+
+0xFC00
+	1 11111 0000000000
+	s eeeee ffffffffff
+	special value
+	negative infinity
+
+0x7C00
+	0 11111 0000000000
+	s eeeee ffffffffff
+	special value
+	positive infinity
+
+0x0000
+	0 00000 0000000000
+	s eeeee ffffffffff
+	denormalized value
+	sign:		positive
+	bias:		15        
+	unbiased exp:	0         
+	E:		-14       
+	frac:		0.00000000000000000000
+	M:		0.00000000000000000000
+	value:		0.00000000000000000000
+	value:		0.00000000000000000000e+00
+
+0x0001
+	0 00000 0000000001
+	s eeeee ffffffffff
+	denormalized value
+	sign:		positive
+	bias:		15        
+	unbiased exp:	0         
+	E:		-14       
+	frac:		0.00097656250000000000
+	M:		0.00097656250000000000
+	value:		0.00000005960464477539
+	value:		5.96046447753906250000e-08
+
+0x03ff
+	0 00000 1111111111
+	s eeeee ffffffffff
+	denormalized value
+	sign:		positive
+	bias:		15        
+	unbiased exp:	0         
+	E:		-14       
+	frac:		0.99902343750000000000
+	M:		0.99902343750000000000
+	value:		0.00006097555160522461
+	value:		6.09755516052246093750e-05
+
+0x83FF
+	1 00000 1111111111
+	s eeeee ffffffffff
+	denormalized value
+	sign:		negative
+	bias:		15        
+	unbiased exp:	0         
+	E:		-14       
+	frac:		0.99902343750000000000
+	M:		0.99902343750000000000
+	value:		-0.00006097555160522461
+	value:		-6.09755516052246093750e-05
+

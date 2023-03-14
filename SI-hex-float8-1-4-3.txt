@@ -1,0 +1,228 @@
+0x00
+ 	55f5e6dc6084
+	0 0000 000
+	s eeee fff
+	denormalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	0         
+	E:		-6        
+	frac:		0.00000000000000000000
+	M:		0.00000000000000000000
+	value:		0.00000000000000000000
+	value:		0.00000000000000000000e+00
+
+0x01
+ 	55f5e6dc6084
+	0 0000 001
+	s eeee fff
+	denormalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	0         
+	E:		-6        
+	frac:		0.12500000000000000000
+	M:		0.12500000000000000000
+	value:		0.00195312500000000000
+	value:		1.95312500000000000000e-03
+
+0x02
+ 	55f5e6dc6084
+	0 0000 010
+	s eeee fff
+	denormalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	0         
+	E:		-6        
+	frac:		0.25000000000000000000
+	M:		0.25000000000000000000
+	value:		0.00390625000000000000
+	value:		3.90625000000000000000e-03
+
+0x06
+ 	55f5e6dc6084
+	0 0000 110
+	s eeee fff
+	denormalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	0         
+	E:		-6        
+	frac:		0.75000000000000000000
+	M:		0.75000000000000000000
+	value:		0.01171875000000000000
+	value:		1.17187500000000000000e-02
+
+0x07
+ 	55f5e6dc6084
+	0 0000 111
+	s eeee fff
+	denormalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	0         
+	E:		-6        
+	frac:		0.87500000000000000000
+	M:		0.87500000000000000000
+	value:		0.01367187500000000000
+	value:		1.36718750000000000000e-02
+
+0x08
+ 	55f5e6dc6084
+	0 0001 000
+	s eeee fff
+	normalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	1         
+	E:		-6        
+	frac:		0.00000000000000000000
+	M:		1.00000000000000000000
+	value:		0.01562500000000000000
+	value:		1.56250000000000000000e-02
+
+0x09
+ 	55f5e6dc6084
+	0 0001 001
+	s eeee fff
+	normalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	1         
+	E:		-6        
+	frac:		0.12500000000000000000
+	M:		1.12500000000000000000
+	value:		0.01757812500000000000
+	value:		1.75781250000000000000e-02
+
+0x36
+ 	55f5e6dc6084
+	0 0110 110
+	s eeee fff
+	normalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	6         
+	E:		-1        
+	frac:		0.75000000000000000000
+	M:		1.75000000000000000000
+	value:		0.87500000000000000000
+	value:		8.75000000000000000000e-01
+
+0x37
+ 	55f5e6dc6084
+	0 0110 111
+	s eeee fff
+	normalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	6         
+	E:		-1        
+	frac:		0.87500000000000000000
+	M:		1.87500000000000000000
+	value:		0.93750000000000000000
+	value:		9.37500000000000000000e-01
+
+0x38
+ 	55f5e6dc6084
+	0 0111 000
+	s eeee fff
+	normalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	7         
+	E:		0         
+	frac:		0.00000000000000000000
+	M:		1.00000000000000000000
+	value:		1.00000000000000000000
+	value:		1.00000000000000000000e+00
+
+0x39
+ 	55f5e6dc6084
+	0 0111 001
+	s eeee fff
+	normalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	7         
+	E:		0         
+	frac:		0.12500000000000000000
+	M:		1.12500000000000000000
+	value:		1.12500000000000000000
+	value:		1.12500000000000000000e+00
+
+0x3a
+ 	55f5e6dc6084
+	0 0111 010
+	s eeee fff
+	normalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	7         
+	E:		0         
+	frac:		0.25000000000000000000
+	M:		1.25000000000000000000
+	value:		1.25000000000000000000
+	value:		1.25000000000000000000e+00
+
+0x76
+ 	55f5e6dc6084
+	0 1110 110
+	s eeee fff
+	normalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	14        
+	E:		7         
+	frac:		0.75000000000000000000
+	M:		1.75000000000000000000
+	value:		224.00000000000000000000
+	value:		2.24000000000000000000e+02
+
+0x77
+ 	55f5e6dc6084
+	0 1110 111
+	s eeee fff
+	normalized value
+	sign:		positive
+	bias:		7         
+	unbiased exp:	14        
+	E:		7         
+	frac:		0.87500000000000000000
+	M:		1.87500000000000000000
+	value:		240.00000000000000000000
+	value:		2.40000000000000000000e+02
+
+0xf7
+ 	55f5e6dc6084
+	1 1110 111
+	s eeee fff
+	normalized value
+	sign:		negative
+	bias:		7         
+	unbiased exp:	14        
+	E:		7         
+	frac:		0.87500000000000000000
+	M:		1.87500000000000000000
+	value:		-240.00000000000000000000
+	value:		-2.40000000000000000000e+02
+
+0xf8
+ 	55f5e6dc6084
+	1 1111 000
+	s eeee fff
+	special value
+	negative infinity
+0x78
+ 	55f5e6dc6084
+	0 1111 000
+	s eeee fff
+	special value
+	positive infinity
+0x7a
+ 	55f5e6dc6084
+	0 1111 010
+	s eeee fff
+	special value
+	positive infinity

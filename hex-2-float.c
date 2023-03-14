@@ -158,7 +158,7 @@ main(int argc, char *argv[])
 
 	sign = (uv & mask) ? 1 : 0;
 
-	exp = (uv & exp_mask);
+	ub_exp = (uv & exp_mask);
 
 	plain_frac = (double) (uv & frac_mask) / pow(2.0, frac_bits);
 
@@ -185,22 +185,21 @@ main(int argc, char *argv[])
 	printf("\n");
 
 // DENORMALIZED
-    if(exp == 0) {
+    if(ub_exp == 0) {
 	//E IS 1 - BIAS
-	ub_exp = 1 - (unsigned long) exp_bias;
-	exp = frac_add - exp_bias;
+	exp = 1.0 - exp_bias;
 	frac = plain_frac;
 	mode = DENORMALIZED;
 	}
 // SPECIAL VALUE
-    else if(exp == exp_mask) {
+    else if(ub_exp == exp_mask) {
 	mode = SPECIAL;
 	}
  // NORMALIZED
     else{
-        ub_exp = (unsigned long)exp >> frac_bits;
+        exp = (unsigned long)ub_exp >> frac_bits;
 	exp = ub_exp - exp_bias;
-	frac = frac_add + plain_frac;
+	frac = frac_add + frac;
 	mode = NORMALIZED;
     }
 	
@@ -240,7 +239,7 @@ main(int argc, char *argv[])
         case SPECIAL:
 	    printf("\tspecial value\n"); 	
 	    if(frac == 0)
-	    	printf("\t%s\n", (sign == 1) ? "positive infinity" : "negative infinity"); 
+	    	printf("\t%s\n", (sign == 1) ? "negative infinity" : "positive infinity"); 
 	    else {
 	        printf("\tNaN\n");
 	    }
