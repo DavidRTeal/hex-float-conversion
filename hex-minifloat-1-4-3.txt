@@ -1,1 +1,0 @@
-/u/rchaney/Classes/cs201/Labs/Lab5/hex-minifloat-1-4-3.txt
